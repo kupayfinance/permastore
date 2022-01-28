@@ -1,0 +1,3 @@
+*.price.*
+*.transaction.*
+!.gitignore
